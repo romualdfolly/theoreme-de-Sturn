@@ -1,4 +1,4 @@
-# Théorème de Sturm — Comptage des racines réelles d'un polynôme
+# Théorème de Sturm : Comptage des racines réelles d'un polynôme
 
 **Auteur :** Romuald Folly-Dogba
 
